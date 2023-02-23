@@ -25,3 +25,4 @@
 
 ## 5) For any questions, please contact:
 Support: support@mosaics.ai
+Documentation and pymsx install: https://pypi.org/project/pymsx/
