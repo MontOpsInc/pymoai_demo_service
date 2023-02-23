@@ -20,7 +20,8 @@
   
 ## 4) Execute the run_service command to upload the 20 NLP datasets
  Start seeing AIOps insights in the MSX UI! 
- We are available on browser, so see your Language AIOps insights anywhere!
+ 
+ We are available on Browser AND Mobile, so see your Language AIOps insights anywhere!
 
 
 
