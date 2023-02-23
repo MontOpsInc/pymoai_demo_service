@@ -5,6 +5,14 @@
 
 
 # Big effect with small steps taken
+
+In this example, we have provided 20 example NLP datasets, which is meant to simulate a standard AIOps process over time. 
+
+However, we've made it simple using pymsx -- simply run the command that uploads the sample data, and we do the heavy lifting. 
+
+Later, use this same structure to push your own data to MSX!
+
+
 ## 1) Make sure you have a Mosaics login
   -> signup at https://www.mosaics.ai/
     
