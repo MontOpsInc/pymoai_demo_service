@@ -7,7 +7,9 @@
 # Big effect with small steps taken
 ## 1) Make sure you have a Mosaics login
   -> signup at https://www.mosaics.ai/
-    We will have your account approved within 24hours of signup
+    
+    
+We will have your account approved within 24hours of signup
   
 ## 2) Clone the code from this repository
 
