@@ -9,7 +9,9 @@
   -> signup at https://www.mosaics.ai/
     We will have your account approved within 24hours of signup
   
-## 2) Pull the code from this repository
+## 2) Clone the code from this repository
+
+git clone https://github.com/Mosaics-ai/pymsx_demo_service.git
 
 ## 3) Edit your credentials in "/run_service/functions_msx.py"
   - email
