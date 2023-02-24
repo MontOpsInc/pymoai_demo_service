@@ -25,4 +25,4 @@ COPY        . .
 EXPOSE      5000
 
 ENTRYPOINT  ["dumb-init", "--"]
-CMD         ["python", "/app/run_service/run_service.py"]
+CMD         ["python", "/app/run_service/run.py"]
