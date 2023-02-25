@@ -3,7 +3,8 @@
 #### Example Diagram of how the flow works
 <br />
 
-![MSX Flow -- Simplest](https://user-images.githubusercontent.com/79324142/220977307-35b8aea8-c580-4608-a7f1-4d6b6e76e9a8.png)
+![Blank diagram](https://user-images.githubusercontent.com/79324142/221370832-22fb5bd3-7f21-4a50-bbeb-3963e63d6b7d.png)
+
 
 <br />
 
