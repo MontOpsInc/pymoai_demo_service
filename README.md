@@ -67,4 +67,5 @@ We are available on Browser AND Mobile, so see your Language AIOps insights anyw
 <br />
 
 Support: support@mosaics.ai
+
 Documentation and pymsx install: https://pypi.org/project/pymsx/
