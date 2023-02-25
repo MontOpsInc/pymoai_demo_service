@@ -71,5 +71,6 @@ Documentation and pymsx install: https://pypi.org/project/pymsx/
 # Example Diagram of how the flow works
 <br />
 
-![MSX Flow -- Vertical](https://user-images.githubusercontent.com/79324142/221370984-6ad6be13-daec-432b-a352-affd26eda1e3.png)
+![MSX Flow -- Vertical (1)](https://user-images.githubusercontent.com/79324142/221371115-a5a7e39c-ebcb-4ff1-b003-d7a9484f1923.png)
+
 
