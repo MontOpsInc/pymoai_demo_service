@@ -68,7 +68,7 @@ Support: support@mosaics.ai
 
 Documentation and pymsx install: https://pypi.org/project/pymsx/
 
-## Example Diagram of how the flow works
+# Example Diagram of how the flow works
 <br />
 
 ![MSX Flow -- Vertical](https://user-images.githubusercontent.com/79324142/221370984-6ad6be13-daec-432b-a352-affd26eda1e3.png)
