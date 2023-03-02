@@ -8,9 +8,9 @@
 ## Big effect with small steps taken
 <br />
 
-In this example, we have provided 20 example NLP datasets, which is meant to simulate a standard AIOps process over time. 
+In this example, we have provided 20 example NLP datasets, which is meant to simulate a standard AIOps process over time. The data is for simple sentiment analysis, taking tweets to determine whether a Crypto coin's price will increase/decrease in the next 3 days (Pos, Neg). Input columns are "Text" and "Sentiment".
 
-However, we've made it simple using pymsx -- simply run the command that uploads the sample data, and we do the heavy lifting. 
+We've made the AIOps process simple here using pymsx -- simply run the command that uploads the sample data, and we do the heavy lifting. 
 
 Later, use this same structure to push your own data to MSX!
 
