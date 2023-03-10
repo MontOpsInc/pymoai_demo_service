@@ -34,7 +34,7 @@ $ git clone https://github.com/Mosaics-ai/pymsx_demo_service.git
 $ cd pymsx_demo_service
 $ python3 -m venv .venv
 $ source .venv/bin/activate
-$ pip isntall --upgrade pip && pip install -r requirements
+$ pip install --upgrade pip && pip install -r requirements.txt
 ```
 
 ## 3) **Edit your credentials in "/run_service/creds.json"**
