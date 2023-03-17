@@ -1,4 +1,4 @@
-# Welcome to youre first run using pymsx!
+# Welcome to youre first run using pymoai!
 
 
 
@@ -10,9 +10,9 @@
 
 In this example, we have provided 20 example NLP datasets, which is meant to simulate a standard AIOps process over time. The data is for simple sentiment analysis, taking tweets to determine whether a Crypto coin's price will increase/decrease in the next 3 days (Pos, Neg). Input columns are "Text" and "Sentiment".
 
-We've made the AIOps process simple here using pymsx -- simply run the command that uploads the sample data, and we do the heavy lifting. 
+We've made the AIOps process simple here using pymoai -- simply run the command that uploads the sample data, and we do the heavy lifting. 
 
-Later, use this same structure to push your own data to MSX!
+Later, use this same structure to push your own data to MontOps!
 
 <br />
 
@@ -55,7 +55,7 @@ $ pip install --upgrade pip && pip install -r requirements.txt
 $ python run_service/run.py
 ```
 
-Start seeing `AIOps` insights in the MSX UI! 
+Start seeing `AIOps` insights in the MontOps UI! 
  
 We are available on Browser AND Mobile, so see your Language AIOps insights anywhere!
 
@@ -66,11 +66,12 @@ We are available on Browser AND Mobile, so see your Language AIOps insights anyw
 
 Support: support@montops.ai
 
-Documentation and pymsx install: https://pypi.org/project/pymsx/
+Documentation and pymoai install: https://pypi.org/project/pymoai/
 
 # Example Diagram of how the flow works
 <br />
 
-![MSX Flow -- Vertical (1)](https://user-images.githubusercontent.com/79324142/221371115-a5a7e39c-ebcb-4ff1-b003-d7a9484f1923.png)
+![
+Flow -- Vertical (1)](https://user-images.githubusercontent.com/79324142/221371115-a5a7e39c-ebcb-4ff1-b003-d7a9484f1923.png)
 
 
