@@ -30,7 +30,7 @@ We will have your account approved within 24 hours of signup.
 <br />
 
 ```bash
-$ git clone https://github.com/Mosaics-ai/pymoai_demo_service.git
+$ git clone https://github.com/MontOpsInc/pymoai_demo_service.git
 $ cd pymoai_demo_service
 $ python3 -m venv .venv
 $ source .venv/bin/activate
