@@ -16,10 +16,10 @@ Later, use this same structure to push your own data to MSX!
 
 <br />
 
-## 1) **Make sure you have a Mosaics login**
+## 1) **Make sure you have a MontOps login**
 <br />
 
->> signup at https://www.mosaics.ai/
+>> signup at https://www.montops.ai/
     
     
 We will have your account approved within 24 hours of signup.
@@ -30,8 +30,8 @@ We will have your account approved within 24 hours of signup.
 <br />
 
 ```bash
-$ git clone https://github.com/Mosaics-ai/pymsx_demo_service.git
-$ cd pymsx_demo_service
+$ git clone https://github.com/Mosaics-ai/pymoai_demo_service.git
+$ cd pymoai_demo_service
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 $ pip install --upgrade pip && pip install -r requirements.txt
@@ -64,7 +64,7 @@ We are available on Browser AND Mobile, so see your Language AIOps insights anyw
 ## 5) **For any questions, please contact:**
 <br />
 
-Support: support@mosaics.ai
+Support: support@montops.ai
 
 Documentation and pymsx install: https://pypi.org/project/pymsx/
 
